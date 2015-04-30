@@ -1,1 +1,3 @@
-com.isys315.familytree.logic.family
+com.isys315.familytree.cli
+com.isys315.familytree.family
+com.isys315.familytree.util
